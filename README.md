@@ -28,3 +28,7 @@ Based of these features my model computed a score for each ppt and sorted the pp
 <h1>Yammer Group</h1>
 
 https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=13438430&view=all
+
+<h1> Winner Announcement </h1>
+
+![GDSC Winner Announcement](https://raw.githubusercontent.com/arkahome/Halloween_recommender_system/blob/master/Winner%20Announcement-%20GDSC.PNG)
