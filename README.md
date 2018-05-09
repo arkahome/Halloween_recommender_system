@@ -31,4 +31,6 @@ https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=1343
 
 <h1> Winner Announcement </h1>
 
+Capgemini Internal Link: https://builders.capgemini.com/readcommunicationonline?content_id=A5395BD6-8CAB-8480-212A-FD5C25AE1512
+
 ![GDSC Winner Announcement](https://github.com/arkahome/Halloween_recommender_system/blob/master/Winner%20Announcement-%20GDSC.PNG)
