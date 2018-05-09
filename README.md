@@ -31,4 +31,4 @@ https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=1343
 
 <h1> Winner Announcement </h1>
 
-![GDSC Winner Announcement](https://raw.githubusercontent.com/arkahome/Halloween_recommender_system/blob/master/Winner%20Announcement-%20GDSC.PNG)
+![GDSC Winner Announcement](https://github.com/arkahome/Halloween_recommender_system/blob/master/Winner%20Announcement-%20GDSC.PNG)
