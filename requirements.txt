@@ -1,0 +1,21 @@
+#Things Required to run the Model :----
+
+#Pickle File for trained model
+trained_df.pkl
+
+#Python Version
+pyhton 3.6
+
+#Libraries:
+
+pandas
+nltk
+string
+html
+sys
+re
+sklearn
+numpy
+
+
+# For the training part please put the path in the python file where all the ppts are saved
